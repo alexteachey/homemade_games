@@ -5,6 +5,9 @@ import time
 # Sudoku board size
 N = 9
 
+
+print('this is a little change!')
+
 def print_board(board):
     """Print the Sudoku board in a readable format."""
     for i in range(N):
