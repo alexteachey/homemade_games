@@ -6,7 +6,6 @@ import time
 N = 9
 
 
-print('this is a little change!')
 
 def print_board(board):
     """Print the Sudoku board in a readable format."""
